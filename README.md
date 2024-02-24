@@ -14,7 +14,7 @@ I' m junior Python Web Developer
 <p align="left">
 <a href="https://linkedin.com/in/luboslav-florov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luboslav-florov/" height="30" width="40" /></a>
 <a href="https://fb.com/lubcataflorov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lubcataflorov/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gsoundedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gsoundedm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@gsoundedm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gsoundedm" height="30" width="40" /></a>
 </p>
 
 <h3><img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp;Languages and Tools I know:</h3>
