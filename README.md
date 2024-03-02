@@ -8,7 +8,7 @@ I' m junior Python Web Developer
 *   🌍  I'm based in Gabrovo
 *   ✉️  You can contact me at [lflorov2@gmail.com](mailto:lflorov2@gmail.com)
 *   🧠  I'm learning Python OOP, Django, Data base
-*   ⚡  I'm a DJ in my spare time### Skills
+*   ⚡  I'm a DJ in my spare time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
